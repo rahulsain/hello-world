@@ -17,3 +17,5 @@ There are some guildelines which everyone should follow while contributing to th
 6. Make the required changes if the reviewer asks for them. 
 
 7. That's it! Your pull request will be merged once everything seems okay.
+
+Added kotlin
