@@ -1,6 +1,6 @@
 // Hello world program in java
-
-class HelloWorld {
+class HelloWorld 
+{
     public static void main(String[] args)
     {
         //print statement
