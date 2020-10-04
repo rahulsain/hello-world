@@ -1,0 +1,5 @@
+// ColdFusion
+ 
+ <cfscript>
+	WriteOutput("Hello World!");
+ </cfscript>
