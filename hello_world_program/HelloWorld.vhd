@@ -1,4 +1,4 @@
-entity helloWorld is
+entity HelloWorld is
 end entity;
  
 architecture sim of HelloWorld is
