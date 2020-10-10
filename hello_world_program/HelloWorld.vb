@@ -1,10 +1,5 @@
-Imports System
-
-Module HelloWorld
-
+Module Module1
     Sub Main()
-
-        Console.WriteLine("Hello World")
-    End Sub 
-
+        Console.WriteLine("Hello, world!")
+    End Sub
 End Module
