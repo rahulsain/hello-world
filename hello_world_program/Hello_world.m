@@ -1,2 +1,0 @@
-clc;
-disp('Hello world!')
